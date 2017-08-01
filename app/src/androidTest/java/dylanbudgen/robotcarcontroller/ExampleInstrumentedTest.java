@@ -23,4 +23,12 @@ public class ExampleInstrumentedTest {
 
         assertEquals("***REMOVED***robotcarcontroller", appContext.getPackageName());
     }
+
+
+    @Test
+    public void test() {
+
+
+
+    }
 }
